@@ -3,6 +3,11 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lmgw-dev/lmgw/main/docs/assets/logo-dark.svg">
     <img src="https://raw.githubusercontent.com/lmgw-dev/lmgw/main/docs/assets/logo-light.svg" width="340" alt="lmgw, local model gateway">
   </picture>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lmgw-dev/kai/main/docs/images/logo-dark.svg">
+    <img src="https://raw.githubusercontent.com/lmgw-dev/kai/main/docs/images/logo-light.svg" width="302" alt="Kai, voice assistant">
+  </picture>
 </p>
 
 <p align="center">
